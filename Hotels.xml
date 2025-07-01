@@ -112,7 +112,7 @@
   </Hotel>
 
   <Hotel Rating="4.1">
-    <Name>Hampton Inn & Suites Phoenix East Mesa</Name>
+    <Name>Hampton Inn &amp; Suites Phoenix East Mesa</Name>
     <Phone>480-654-4000</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
       <Number>1825</Number>
