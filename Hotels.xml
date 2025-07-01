@@ -38,7 +38,7 @@
   </Hotel>
 
   <Hotel Rating="4.0">
-    <Name>Hampton Inn & Suites Phoenix Gilbert</Name>
+    <Name>Hampton Inn &amp; Suites Phoenix Gilbert</Name>
     <Phone>480-543-1500</Phone>
     <Phone>800-445-8667</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
